@@ -1,0 +1,6 @@
+<div id="body">
+    <button (click)="show=0">workers</button>
+    <button (click)="show=1">role</button>
+    <app-show-workers *ngIf="show==0"></app-show-workers>
+    <app-show-role *ngIf="show==1"></app-show-role>
+</div>

@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Yossef Choen",
+        "id":212587454,
+        "role":"Principal",
+        "salary":15000
+    },
+    {
+        "name":"Chaim Deahn",
+        "id":351423365,
+        "role":"Renter",
+        "salary":6800
+    },
+    {
+        "name":"Moshe Levi",
+        "id":315452698,
+        "role":"Programmer",
+        "salary":10000
+    },
+    {
+        "name":"Dan Silver",
+        "id":236541425,
+        "role":"Programmer",
+        "salary":9500
+    }
+]
